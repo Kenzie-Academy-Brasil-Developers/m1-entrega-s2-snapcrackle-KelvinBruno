@@ -57,3 +57,5 @@ function snapCracklePrime(valorMaximo) {
   }
   return frase;
 }
+
+console.log(snapCrackle(10))
