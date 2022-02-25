@@ -1,0 +1,6 @@
+"  a","i ",i<a,i++,a % i === 0,return false,return a > 1
+1,2,false,?,?,?,false
+2,2,false,?,?,?,true
+3,2,true,2+1,false,?,true
+4,2,true,2+1,true,false,?
+5,2,true,2+1,false,?,true
